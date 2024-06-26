@@ -1,0 +1,6 @@
+
+package entidades;
+
+class Cliente {
+  
+}
